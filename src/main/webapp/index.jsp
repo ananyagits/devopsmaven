@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Life is a conundrum of esoterica by Lemony Snicket</h2>
+<h2>Life is beautiful but also life is a conundrum of esoterica</h2>
 </body>
 </html>
