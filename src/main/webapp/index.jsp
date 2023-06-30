@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Kubernetes and docker are the next topic</h2>
+<h2>Azure devops is the next topic</h2>
 </body>
 </html>
